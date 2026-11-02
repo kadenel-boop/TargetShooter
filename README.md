@@ -1,8 +1,5 @@
 # Target Shooter
 
-## About this project:
-# Target Shooter
-
 ## About the Project
 
 Target Shooter is a 2D target-shooting game developed using Python and Pygame for the Creative Coding A2 assessment at the University of Technology Sydney (UTS).
