@@ -73,7 +73,11 @@ The game will open in an 800 × 600 window.
 TargetShooter/
 ├── main.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── screenshots/
+    ├── Gameplay Screenshot.png
+    ├── Main Menu Screenshot.png
+    └── Win Screen Screenshot.png
 ```
 
 ### File Descriptions
@@ -81,6 +85,21 @@ TargetShooter/
 - `main.py` — Contains the game logic, target classes, interface screens, event handling and main game loop.
 - `requirements.txt` — Lists the external Python libraries required to run the game.
 - `README.md` — Provides project information, controls and installation instructions.
+- `screenshots/` — Contains screenshots demonstrating the game.
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/Main%20Menu%20Screenshot.png)
+
+### Gameplay
+
+![Gameplay](screenshots/Gameplay%20Screenshot.png)
+
+### Victory Screen
+
+![Victory Screen](screenshots/Win%20Screen%20Screenshot.png)
 
 ## Development Process
 
